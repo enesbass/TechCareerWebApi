@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechCareerBootcampWebApi2", "TechCareerBootcampWebApi2\TechCareerBootcampWebApi2.csproj", "{2819AF79-F815-4AF7-9F47-1610F7F2E4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2819AF79-F815-4AF7-9F47-1610F7F2E4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2819AF79-F815-4AF7-9F47-1610F7F2E4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2819AF79-F815-4AF7-9F47-1610F7F2E4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2819AF79-F815-4AF7-9F47-1610F7F2E4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42E34D19-E087-476F-BC8F-B026199F9C0F}
+	EndGlobalSection
+EndGlobal

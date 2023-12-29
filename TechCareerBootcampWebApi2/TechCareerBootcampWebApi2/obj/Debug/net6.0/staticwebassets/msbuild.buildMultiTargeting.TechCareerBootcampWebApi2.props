@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TechCareerBootcampWebApi2.props" />
+</Project>
